@@ -18,9 +18,9 @@ I created this repository to track my progress in solving LeetCode problems and 
 - **Solutions**: Each solution includes the problem statement, my approach, and the code.
 
 ## Progress
-- Total problems solved: 1
+- Total problems solved: 3
 - Easy: 1
-- Medium: 0
+- Medium: 2
 - Hard: 0
 
 ## How to Use
